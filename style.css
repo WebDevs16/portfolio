@@ -181,13 +181,13 @@ div.copyright{
   padding-bottom: 4em;
 }
 .fa {
-  padding: 8px;
+  padding: 9px;
   font-size: 25px;
   width: 40px;	height:40px;
   text-align: center;
   text-decoration: none;
-  margin: -5px 5px;
-  border-radius: 25px; 
+  margin: -15px 15px;
+  border-radius: 50%; 
  }
   
 
@@ -212,3 +212,5 @@ div.copyright{
   background: #007bb5;
   color: white;
 }
+
+
