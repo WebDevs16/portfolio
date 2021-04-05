@@ -319,3 +319,37 @@ div.copyright{
   width: 300px;
   margin-top: 5em;
 }
+.button1, .button2 {
+  background-color: rgb(55,55,55);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+  text-shadow: none;
+  margin-top: 15%;
+  border-radius: 10px;
+}
+button, a:hover{
+  background-color: #ccccff;
+  transition: 0.2s;
+  color: #000000;
+}
+
+.button2{
+  margin-bottom: 10em;
+  margin-top: 1em;
+  margin-left: 70px;
+}
+@media (max-width:900px){
+  .button1 {
+    margin-top: 50px ;
+  }
+  .button2{
+    margin-left: 10px;
+  }
+}
