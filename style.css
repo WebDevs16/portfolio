@@ -331,7 +331,7 @@ div.copyright{
   margin: 4px 4px;
   cursor: pointer;
   text-shadow: none;
-  margin-top: 15%;
+  margin-top: 5%;
   border-radius: 10px;
 }
 button, a:hover{
@@ -339,11 +339,13 @@ button, a:hover{
   transition: 0.2s;
   color: #000000;
 }
-
+.button1{
+  margin-left: 20%;
+}
 .button2{
   margin-bottom: 10em;
   margin-top: 1em;
-  margin-left: 50px;
+  margin-left: 70px;
 }
 @media (max-width:900px){
   .button1 {
