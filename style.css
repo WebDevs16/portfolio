@@ -227,7 +227,6 @@ div.copyright{
 .giannis-bul{
   float:left; 
   margin-left:27%;
-  margin-bottom:7em;
 }
 
 .giannis-photo{
@@ -345,7 +344,7 @@ button, a:hover{
 .button2{
   margin-bottom: 10em;
   margin-top: 0em;
-  margin-right: 50%;
+  margin-right: 30%;
 }
 @media (max-width:900px){
   .button1 {
