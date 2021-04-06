@@ -344,8 +344,8 @@ button, a:hover{
 }
 .button2{
   margin-bottom: 10em;
-  margin-top: 1em;
-  margin-left: 70px;
+  margin-top: 0em;
+  margin-right: 50%;
 }
 @media (max-width:900px){
   .button1 {
